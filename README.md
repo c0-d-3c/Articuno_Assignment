@@ -1,7 +1,7 @@
 # Articuno_Assignment
 This repository contain an flutter assignment.
 
-The assignment is as follows:
+The assignment is as follows:<br />
 A.Create a stateful widget which has a container and a background color.<br />
 B. Store the background color in a state variable in this container.<br />
 C. Generate the background color as a random color in initState of container instead of passing it down as props.<br />
